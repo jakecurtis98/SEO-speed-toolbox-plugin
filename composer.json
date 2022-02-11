@@ -1,0 +1,16 @@
+{
+    "name": "matm/toolbox",
+    "description": "Speed Toolbox plugin",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0",
+        "maneuver/bitbucket-wp-updater": "^0.0.3"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "matm",
+        "email": "web@matm.co.uk"
+    }]
+}

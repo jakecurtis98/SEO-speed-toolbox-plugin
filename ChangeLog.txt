@@ -1,0 +1,9 @@
+------------------------------------------------------------------
+14th October 2020 - V1.1
+ - Allow SVG uploads through media library
+20th October 2020 - V1.12
+ - Remove webp when deleting from media library
+28th October 2020 - V1.2
+ - Adding responsive images
+28th October 2020 - V1.22
+ - fixing bug in getting cached sizes
